@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">I am Full Stack Software Developer & Software Engineering Student</h3>
+<h3 align="center">Full Stack Software Developer & Software Engineering Student</h3>
 
 - ⚡ Desc **TODO**
 
