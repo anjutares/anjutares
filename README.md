@@ -20,10 +20,10 @@ You can take a look at my entire career, both professional and personal, on my <
   🎯 Inspirational leadership<br>
 </p>
 
-<h2 align="left">How I work</h2>
+<!--<h2 align="left">How I work</h2>
 <p align="justify">
 TODO
-</p>
+</p>-->
 
 <h2 align="left">Get in touch</h1>
 <ul align="left">
