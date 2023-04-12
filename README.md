@@ -27,10 +27,10 @@ TODO
 
 <h2 align="left">Get in touch</h1>
 <ul align="left">
-<li>LinkedIn: <a href="https://www.linkedin.com/in/juan-ferrando/" target="blank">https://www.linkedin.com/in/juan-ferrando/</a></li>
-<li>Twitter: <a href="https://twitter.com/anjutares" target="blank">https://twitter.com/anjutares</a></li>
-<li>Instagram: <a href="https://instagram.com/anjutares" target="blank">https://www.linkedin.com/in/juan-ferrando/</a></li>
-<li>Personal website: <a href="https://anjutares.com/" target="blank">https://anjutares.com</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/juan-ferrando/" target="blank">linkedin.com/in/juan-ferrando</a></li>
+<li>Twitter: <a href="https://twitter.com/anjutares" target="blank">twitter.com/anjutares</a></li>
+<li>Instagram: <a href="https://instagram.com/anjutares" target="blank">instagram.com/anjutares</a></li>
+<li>Personal website: <a href="https://anjutares.com/" target="blank">anjutares.com</a></li>
 </ul>
 
 
